@@ -21,7 +21,9 @@
 
 * Pure ML
     * Auto Encoder
-        *[Image Denoising](https://github.com/ConyYang/image-Denoising_AutoEncoder)  
+        * [Image Denoising](https://github.com/ConyYang/image-Denoising_AutoEncoder)  
+    * Naive Classifier
+        * [Naive Classifier](https://github.com/ConyYang/naiveClassifier)
               
 
 ## 4. Flutter Mobile App
@@ -38,8 +40,11 @@
 * Computer Architecture
     * [Cuda Sample](https://github.com/ConyYang/cudaSample)
 
-
-## 6. Game
+## 6. Python Web Crawler
+* Scrapy
+    * [Scrapy Practice Book](https://github.com/ConyYang/Scrapy)
+        
+## 7. Game
 * [Chat Box](https://github.com/ConyYang/ChatBox_rasa_Python)
 * Pygame
     * [Classic Matching](https://github.com/ConyYang/ClassicMatching_LineFriends)
