@@ -24,7 +24,8 @@
         * [Image Denoising](https://github.com/ConyYang/image-Denoising_AutoEncoder)  
     * Naive Classifier
         * [Naive Classifier](https://github.com/ConyYang/naiveClassifier)
-              
+    * K-NearestNeighbors
+        * [KNN ionosphere](https://github.com/ConyYang/K-NearstNeighbors_Pipeline)
 
 ## 4. Flutter Mobile App
 * [Taxi](https://github.com/ConyYang/Flutter_TaxiApp_DouDou)
@@ -43,8 +44,12 @@
 ## 6. Python Web Crawler
 * Scrapy
     * [Scrapy Practice Book](https://github.com/ConyYang/Scrapy)
-        
-## 7. Game
+
+## 7. HTML JavaScripy CSS 
+* API
+    * [Cony's Kitchen](https://github.com/ConyYang/Kitchen_Recipe_RESTAPI) 
+
+## 8. Game
 * [Chat Box](https://github.com/ConyYang/ChatBox_rasa_Python)
 * Pygame
     * [Classic Matching](https://github.com/ConyYang/ClassicMatching_LineFriends)
