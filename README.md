@@ -7,7 +7,11 @@
 * [Cooking Blog](https://github.com/ConyYang/CookingBlog_Flask)
 
 
-## 3. Machine Learning 
+## 2. Machine Learning 
+* Pytorch
+    * [Nerual Style Transfer Pytorch](https://github.com/ConyYang/Neural_Style_Transfer_Pytorch)
+    * [Pytorch CookBook](https://github.com/ConyYang/pyTorchCookbook)
+    * [NeuralNetwork Pytorch](https://github.com/ConyYang/NeuralNetwork_Pytorch)
 * Web App
     * Multilayer Perceptron (MLP) 
         * [Crack Captcha](https://github.com/ConyYang/Crack_Captcha_DNN)
@@ -26,12 +30,13 @@
         * [Naive Classifier](https://github.com/ConyYang/naiveClassifier)
     * K-NearestNeighbors
         * [KNN ionosphere](https://github.com/ConyYang/K-NearstNeighbors_Pipeline)
+        
 
-## 4. Flutter Mobile App
+## 3. Flutter Mobile App
 * [Taxi](https://github.com/ConyYang/Flutter_TaxiApp_DouDou)
 
 
-## 5. Theory Illustration
+## 4. Theory Illustration
 * Computer Networks
     * [Protocol Throughput](https://github.com/ConyYang/WebApp_ProtocolThroughput)
     * [RFC865udp-tcp](https://github.com/ConyYang/Rfc865Udp-Tcp)
@@ -41,15 +46,15 @@
 * Computer Architecture
     * [Cuda Sample](https://github.com/ConyYang/cudaSample)
 
-## 6. Python Web Crawler
+## 5. Python Web Crawler
 * Scrapy
     * [Scrapy Practice Book](https://github.com/ConyYang/Scrapy)
 
-## 7. HTML JavaScripy CSS 
+## 6. HTML JavaScripy CSS 
 * API
     * [Cony's Kitchen](https://github.com/ConyYang/Kitchen_Recipe_RESTAPI) 
 
-## 8. Game
+## 7. Game
 * [Chat Box](https://github.com/ConyYang/ChatBox_rasa_Python)
 * Pygame
     * [Classic Matching](https://github.com/ConyYang/ClassicMatching_LineFriends)
