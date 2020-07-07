@@ -49,7 +49,8 @@
 ## 5. Python Web Crawler
 * Scrapy
     * [Scrapy Practice Book](https://github.com/ConyYang/Scrapy)
-
+    * [Scrapy Top Universities](https://github.com/ConyYang/Interesting_Scrapy_Tasks/tree/master/ScrapyGoodUni)
+    * [Scrapy Useful Lesson](https://github.com/ConyYang/Interesting_Scrapy_Tasks/tree/master/ScrapyLessons)
 ## 6. HTML JavaScripy CSS 
 * API
     * [Cony's Kitchen](https://github.com/ConyYang/Kitchen_Recipe_RESTAPI) 
