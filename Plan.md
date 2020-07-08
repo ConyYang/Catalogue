@@ -15,7 +15,7 @@
 ## 4. FLASK
 
 ## 5. Django
-![LinkedIn Django](https://www.linkedin.com/learning/learning-django-2018/install-python-and-django?u=43752620)
+- * [LinkedIn Django](https://www.linkedin.com/learning/learning-django-2018/install-python-and-django?u=43752620)
 
 ## 6. 知乎Link
 * [4个趣味python小项目](https://mp.weixin.qq.com/s/HVJoOJmmDWxudqtOU9BeTA)
