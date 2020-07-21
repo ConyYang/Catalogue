@@ -29,8 +29,8 @@
 ## 7. Coursera
 * [JavaScript](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)
 
-## 8. ShiyanLou
-* [HTML MineSweeper](https://www.shiyanlou.com/courses/144) Debug not finish
+## 8. MySQL
+* [YouTube](https://www.youtube.com/watch?v=x7SwgcpACng&list=PLB5jA40tNf3tRMbTpBA0N7lfDZNLZAa9G)
 
 ## 9. Kindle
 - 神经网络Pytorch实战
