@@ -30,7 +30,6 @@
 =======
 ## 8. ShiyanLou
 * [SQLAlchemy](https://www.shiyanlou.com/courses/724)
->>>>>>> f59bc56d9c4c02b2d573dc9144d6a0d1ba20c5d3
 
 ## 9. Kindle
 - 神经网络Pytorch实战
@@ -46,8 +45,19 @@
     - [如何利用Python播放和录制声音](https://zhuanlan.zhihu.com/p/69755126)
     - [Python音频特征提取](https://zhuanlan.zhihu.com/p/122548028)
 
+* [MFCC]
+    - [梅尔频率倒谱系数（MFCC）教程](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
+    - [Python 处理ASR](https://www.cnblogs.com/zhuimengzhe/p/10223510.html)
+    - [Speech Processing for Machine Learning: Filter banks](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 * [PyAudio]
     - [pyAudioAnalysis：用于音频信号分析的开源Python库](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144610)
     (https://github.com/tyiannak/pyAudioAnalysis/)
+    - [python_speech_features](https://www.cnblogs.com/zhuimengzhe/p/10223510.html)
+  
 
+* [Course]
+    - [Oppenheim: MIT Signals and Systems , Lect Video: 2,3](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/lecture-2-signals-and-systems-part-i/)
+    - [Oppenheim: MIT Digital Signal Processing, Lect Video: 2,3](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/lecture-3-signals-and-systems-part-ii/)
 
+* [Youtube] 
+    - [The sound of AI](https://www.youtube.com/watch?v=fMqL5vckiU0&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
