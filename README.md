@@ -1,11 +1,22 @@
 # Github Catalogue
 
-## 1. Flask Web App
+## 1. Web App
+### Flask 
 * [Weather Forecast](https://github.com/ConyYang/WeatherForecastApp_Flask)
 * [Photo To String Image](https://github.com/ConyYang/Flask_StringImage)
 * [Movie Review](https://github.com/ConyYang/Flask_Movie_Review)
 * [Cooking Blog](https://github.com/ConyYang/CookingBlog_Flask)
 
+### Django
+* [Blog](https://github.com/ConyYang/Blog_Django)
+
+
+### React
+* [ToDo List](https://github.com/ConyYang/ToDo_List_REACT)
+* [Movie Playlist](https://github.com/ConyYang/MoviePlaylist_GraphQL_NodeJS_React)
+
+* API
+    * [Cony's Kitchen](https://github.com/ConyYang/Kitchen_Recipe_RESTAPI) 
 
 ## 2. Machine Learning 
 * Pytorch
@@ -15,9 +26,6 @@
 * Web App
     * Multilayer Perceptron (MLP) 
         * [Crack Captcha](https://github.com/ConyYang/Crack_Captcha_DNN)
-    * Computer Vision
-        * [Classify Dog vs Cat](https://github.com/ConyYang/Flask_tf_ImgClassifyhttps://github.com/ConyYang/Flask_tf_ImgClassify)
-        * [Classify Handwriting Numbers](https://github.com/ConyYang/ImgClassify_WebApp_NN)
     * Clusterting
         * [Geolocation Clustering](https://github.com/ConyYang/Geolocation)
     * Binary Classification
@@ -30,8 +38,21 @@
         * [Naive Classifier](https://github.com/ConyYang/naiveClassifier)
     * K-NearestNeighbors
         * [KNN ionosphere](https://github.com/ConyYang/K-NearstNeighbors_Pipeline)
+    * Unsupervised Learning
+        * [Ensemble-based Unsupervised Learning](https://github.com/SamFangshan/EnsembleSSLProject)
         
+    
+* Pure Deep Learning
+    * [Tensorflow Classification and Regression](https://github.com/ConyYang/CZ4042_tf_classification_regression_project)
+    
 
+* Computer Vision
+    * [Classify Dog vs Cat](https://github.com/ConyYang/Flask_tf_ImgClassifyhttps://github.com/ConyYang/Flask_tf_ImgClassify)
+    * [Classify Handwriting Numbers](https://github.com/ConyYang/ImgClassify_WebApp_NN)     
+    * [Neural Style Transfer](https://github.com/ConyYang/Neural_Style_Transfer_Pytorch)
+    * [Hant Paint Photo](https://github.com/ConyYang/Neural_Style_Transfer_Pytorch/tree/master/HandPaintPhoto)
+    * [Change Profile background color](https://github.com/ConyYang/Neural_Style_Transfer_Pytorch/tree/master/profilePhoto)
+    
 ## 3. Flutter Mobile App
 * [Taxi](https://github.com/ConyYang/Flutter_TaxiApp_DouDou)
 
@@ -51,13 +72,20 @@
     * [Scrapy Practice Book](https://github.com/ConyYang/Scrapy)
     * [Scrapy Top Universities](https://github.com/ConyYang/Interesting_Scrapy_Tasks/tree/master/ScrapyGoodUni)
     * [Scrapy Useful Lesson](https://github.com/ConyYang/Interesting_Scrapy_Tasks/tree/master/ScrapyLessons)
-## 6. HTML JavaScripy CSS 
-* API
-    * [Cony's Kitchen](https://github.com/ConyYang/Kitchen_Recipe_RESTAPI) 
+    * [Scrapy Douban Top250 movies](https://github.com/ConyYang/Interesting_Scrapy_Tasks/tree/master/doubanMovie)
+    
 
-## 7. Game
+## 6. Game
 * [Chat Box](https://github.com/ConyYang/ChatBox_rasa_Python)
 * Pygame
     * [Classic Matching](https://github.com/ConyYang/ClassicMatching_LineFriends)
     * [Search Canteen](https://github.com/ConyYang/Search_Canteen)
 
+* Web Game
+    *[Don't Trap White Block](https://github.com/ConyYang/Dont_Trap-White-Block)
+    *[Mine Sweeper](https://github.com/ConyYang/Mine_Sweeper_HTMLGAME)
+
+## 7. Learning 
+* [Tricky Packages in Python](https://github.com/ConyYang/TrickyPackages_Python)
+* [LeetCode](https://github.com/ConyYang/LeetCode_InterviewQuestions)
+* [Java Concurrent Parallel Distributed Programming](https://github.com/ConyYang/Parallel_Concurrent_Distributed_Programming_in_Java)
